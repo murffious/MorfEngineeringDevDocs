@@ -12,6 +12,7 @@ Key Knowledge check/reminder questions
 
 1. Create VPC  
     - Add CIDR block 10.0.0.0/16 (5 ip addresses taken by aws default so 251 left ) 
+    - IPV6 AWs defaults 
     - Remember - by default these resources come with a VPC 
       - Route table (router for example 10.0.0.1 reserved for VPC router ) classified as MAIN 
       - SG (default) (will be used later for PRIVATE ec2, remember cannot span multiple VPCs) 
