@@ -2,6 +2,10 @@
 
 ### Internet basics
 
+### web Components
+
+### CRUD
+
 ### Computer Knowledge Basics 
 
 ### Workflows and Laptop Set Up
