@@ -1,6 +1,15 @@
 # MorfEngineeringDevDocs
 
-### CLI/Terminal-MacOS
+### Internet basics
+
+### Computer Knowledge Basics 
+
+### Workflows and Laptop Set Up
+
+
+### CLI/Terminal-MacOS/SSh
+sudo nano /etc/paths 
+
 
 ### Git
 
