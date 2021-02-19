@@ -12,6 +12,7 @@ Key Knowledge check/reminder questions
 
 1. Create VPC  
     - Add CIDR block 10.0.0.0/16 (5 ip addresses taken by aws default so 251 left ) 
+    - If fhe requirement is to only allow the individual IP of the client and not the entire network.... the proper CIDR notation should be used. The /32 denotes one IP address and the /0 refers to the entire network. Take note that the SSH protocol uses TCP and port 22.
     - IPV6 AWs defaults 
     - Remember - by default these resources come with a VPC 
       - Route table (router for example 10.0.0.1 reserved for VPC router ) classified as MAIN 
