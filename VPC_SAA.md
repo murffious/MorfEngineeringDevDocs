@@ -38,7 +38,7 @@ Key Knowledge check/reminder questions
     - 1 in private subnet — click the private subnet you created - then also make sure the Auto assign Public IP is DISABLED 
         - Use SG (default) 
         - Use same key pair as the other one ….
-6. Test Connection to Pubic  EC2 instances
+6. Test Connection to Public  EC2 instances
     - ssh ec2-user@12.23.23(the new assigned public ip for this instance) -i newKeyPari.pem
     - Hit Yes and then `sudo su` elevate privileges to root
 7. Create a new SG for DB instance (aka PRIVATE ec2)
