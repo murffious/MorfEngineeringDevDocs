@@ -11,7 +11,8 @@ Gotchas
 ex: `docker run -d -p 80:80 docker/getting-started`
 
 docker-compose run --rm dbt
-￼![image](https://user-images.githubusercontent.com/25558342/113595345-1d3d9280-95f6-11eb-80f4-b62ceeb230eb.png)
+host: host.docker.internal, from a profiles.yml for dbt 
+
 
 
 Docker compose- 
