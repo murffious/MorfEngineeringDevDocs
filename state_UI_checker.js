@@ -17,3 +17,8 @@
 for talking in teams scenarios language is super important-  BUTTON CLICKS, Refresh- anything that affect state is user interaction usually so that could be templated out 
 */
 
+onload 
+onclick 
+on input /type 
+on scroll 
+basically all use input action 
