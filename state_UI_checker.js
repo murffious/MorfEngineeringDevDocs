@@ -14,5 +14,6 @@
 
   Things like spinner, UI dummy loader components - I have wanted to write this down and now realize I may have another docs for this ...
 
+for talking in teams scenarios language is super important-  BUTTON CLICKS, Refresh- anything that affect state is user interaction usually so that could be templated out 
 */
 
