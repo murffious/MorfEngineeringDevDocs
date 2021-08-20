@@ -44,4 +44,5 @@ Pattern :
 Goal  
 
   To reduce query complexity and scale efficiently   
-  
+no sql workbench and data model builder in amplify admin console  
+https://github.com/aws-samples/amazon-dynamodb-design-patterns/blob/master/examples/an-online-shop/json/AnOnlineShop_10.json
