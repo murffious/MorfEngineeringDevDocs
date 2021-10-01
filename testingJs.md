@@ -10,3 +10,7 @@ LIST of user actions
 Desired UI UX / behavior /state values :
 Styles persistane : logged in logged out 
 Back and forth start  over 
+
+
+
+The goal of mocking is to replace something we don’t control, with something we do - https://uchenry-iny.medium.com/writing-unit-test-for-api-calls-in-react-enzyme-and-jest-7014942e29c6
