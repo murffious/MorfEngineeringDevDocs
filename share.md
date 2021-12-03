@@ -20,3 +20,6 @@ https://css-tricks.com/simple-social-sharing-links/
 OGP
 
 cliplboard https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard
+
+
+things like share count and all that https://socialsharekit.com/ ideas
