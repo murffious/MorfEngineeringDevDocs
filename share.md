@@ -12,6 +12,11 @@ mailto: [Links](https://css-tricks.com/all-about-mailto-links/)
 
 using web share api witih navigator.share(data)
 
-
+polyfills for non supported etc
 https://css-tricks.com/simple-social-sharing-links/
 
+
+
+OGP
+
+cliplboard https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Interact_with_the_clipboard
