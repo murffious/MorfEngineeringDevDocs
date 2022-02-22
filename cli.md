@@ -24,3 +24,12 @@ Source bash rc all that
 
 
 Some good resources for authenticating with GitHub via SSH are Kent Dodds Egghead.io video and also a how-to on CheatSheets.xyz.
+
+
+chmod 400 my-web-1-test-key.pem
+ssh ec2-user@54.209.255.97 -i my-web-1-test-key.pem
+Elevate privileges to root inside an ec2
+sudo su
+
+Ping the secure priavte  one from the public one 
+ping 10.0.2.129
