@@ -34,6 +34,9 @@ chmod 400 ~/.ssh/id_rsa (public key) Put secret in in file ssh - i test.pem -L l
 
 
 A hypervisor, also known as a virtual machine monitor or VMM, is software that creates and runs virtual machines (VMs). A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing. - this is what AWS uses to manage all the virutal instances even mayeb for placement groups of ec2 instances https://www.hitechnectar.com/blogs/hypervisor-vs-docker/#:~:text=The%20most%20significant%20difference%20between,on%20the%20host%20kernel%20itself.
+Docker is right now, the most popular container platform. Whereas, Kubernetes is the market leader and the standardized means of orchestrating containers and deploying distributed applications.
+
+So the real comparison can be amongst Kubernetes and Swarm, not Docker itself. That is the difference between docker and Kubernetes that most the people don’t get at the start.
 
 docker commands often used for ECS/Fargate 
 
