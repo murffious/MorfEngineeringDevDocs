@@ -6,7 +6,8 @@
 4. AWS 
 5. bash
 6. ssh throughout - SSH or Secure Shell is a network communication protocol that enables two computers to communicate (c.f http or hypertext transfer protocol, which is the protocol used to transfer hypertext such as web pages) and share data.
-7. ip addresses
+key generating for ssh etc 
+8. ip addresses
 
 
 
