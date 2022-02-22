@@ -33,7 +33,7 @@ chmod 400 ~/.ssh/id_rsa (public key) Put secret in in file ssh - i test.pem -L l
 4. AWS - most common ones I have used. with IAM and security, AWS aws sts get-caller-identity
 
 
-
+A hypervisor, also known as a virtual machine monitor or VMM, is software that creates and runs virtual machines (VMs). A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing. - this is what AWS uses to manage all the virutal instances even mayeb for placement groups of ec2 instances 
 
 Code Editor on Cli 
 1. nano 
