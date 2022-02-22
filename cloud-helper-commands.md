@@ -33,9 +33,29 @@ chmod 400 ~/.ssh/id_rsa (public key) Put secret in in file ssh - i test.pem -L l
 4. AWS - most common ones I have used. with IAM and security, AWS aws sts get-caller-identity
 
 
-A hypervisor, also known as a virtual machine monitor or VMM, is software that creates and runs virtual machines (VMs). A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing. - this is what AWS uses to manage all the virutal instances even mayeb for placement groups of ec2 instances https://www.hitechnectar.com/blogs/hypervisor-vs-docker/#:~:text=The%20most%20significant%20difference%20between,on%20the%20host%20kernel%20itself.
+Virtualization https://opensource.com/resources/virtualization
+A hypervisor, also known as a virtual machine monitor or VMM, is software that creates and runs virtual machines (VMs). A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing. - hypervisor is a software layer that enables one host computer to simultaneously support multiple VMs, hypervisors are a key element of the technology that makes cloud computing possible. Docker creates (via kernal)  applications environments where as hypervisor different way it accesses spins up) creates entire multiple OS. 
 Docker is right now, the most popular container platform. Whereas, Kubernetes is the market leader and the standardized means of orchestrating containers and deploying distributed applications.
 
+Container vs hypervisor
+Containers and hypervisors are both involved in making applications faster and more efficient, but they achieve this in different ways. 
+
+
+Hypervisors:
+
+Allow an operating system to run independently from the underlying hardware through the use of virtual machines.
+Share virtual computing, storage and memory resources.
+Can run multiple operating systems on top of one server (bare-metal hypervisor) or installed on top of one standard operating system and isolated from it (hosted hypervisor).
+Containers: 
+
+Allow applications to run independently of an operating system. 
+Can run on any operating system—all they need is a container engine to run. 
+Are extremely portable since in a container, an application has everything it needs to run. 
+
+Hypervisors and containers are used for different purposes. Hypervisors are used to create and run virtual machines (VMs), which each have their own complete operating systems, securely isolated from the others. In contrast to VMs, containers package up just an app and its related services. This makes them more lightweight and portable than VMs, so they are often used for fast and flexible application development and movement.
+
+
+https://www.vmware.com/topics/glossary/content/hypervisor.html
 So the real comparison can be amongst Kubernetes and Swarm, not Docker itself. That is the difference between docker and Kubernetes that most the people don’t get at the start.
 
 docker commands often used for ECS/Fargate 
