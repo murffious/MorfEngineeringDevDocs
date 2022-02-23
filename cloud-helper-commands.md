@@ -1,4 +1,5 @@
 ### CLI essentials 
+state or stateless 
 
 Task: Using CLI or local terminal to interface with an ec2 instance on AWS
 Task: Obtain meta data, user data and ip address/dns basics. # see also VPC file I made for inof on basics of AWS networking
