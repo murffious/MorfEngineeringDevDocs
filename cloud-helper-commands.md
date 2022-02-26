@@ -1,3 +1,25 @@
+RESPONSIBILITIES
+
+• Provide input to strategic plans and product roadmaps with a focus on cloud products
+• Code APIs to work with cloud systems and when required to help bridge on-prem systems and applications with the cloud
+• Code applications designed to work with or enhance features offered by cloud platforms
+• Translate architectural requirements into PaaS, IaaS and serverless solutions
+• Deploy, manage, and operate scalable, highly available, and fault-tolerant systems
+• Implement and control data flow to and from cloud service providers
+• Assist in the evaluating and enablement of measures to protect cloud system from security compromise and to keep the system safe
+• Plan and perform approved scheduled and emergency maintenance where cloud products have been customized or configured. This includes documenting the maintenance and following the change management process, including approving documented change requests
+• Respond to escalated incidents and engage vendors as necessary. Identify, track, and resolve associated problems
+• Author and maintain documentation and knowledge-based articles
+• Adhere to all security guidelines and ensure that systems are properly protected with working backups; ensure all others with access are doing the same
+• Perform general research to evaluate a range of cloud product offerings, new cloud features, and emerging trends
+• Identify and document technical application, architectures and requirements
+• Order, provision and configure supporting systems and infrastructure
+• Interact with vendors and provide feedback on their products that influences their product roadmap
+• Participate in the design and implementation of supporting systems and infrastructure
+• Keep training material up to date
+• Document the steps required to fulfill service requests
+• Ensure system monitoring is properly tuned
+
 ### CLI essentials 
 state or stateless 
 
