@@ -20,6 +20,9 @@ RESPONSIBILITIES
 • Document the steps required to fulfill service requests
 • Ensure system monitoring is properly tuned
 
+
+Why Data Warehouses instead of just using your normal db - OLAP - analysis- because these analysis queries can be so intensive on the database (resources) drawing data from many places. Able to use compression techniques for using less space (compression schemes), indexing differetly and not requiring views, massive paralleization. Redshift. 
+
 ### CLI essentials 
 state or stateless 
 
