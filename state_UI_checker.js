@@ -28,3 +28,24 @@ refresh
 power of computer goes out.  
 
 events based-  save button persistance etc 
+The "state of state" in a React web app
+
+2 processes 
+API CALL - CRUD computer process - and giving the User feedback - all thoughts should keep the user up to date with what is going on. 
+request track state 
+CREATE - ADD button , NEW CREATE like an unpublished blog post 
+READ - GET 1 ITEM BY ID or Get ALL items or get a group of Items - anytime data is shown to the user. on load or by a VIEW button on the UI 
+UPDATE
+EDIT button , changing text oh the UI or and data - 
+DELETE CLEAR - UNDO , X button, Trash can 
+THey need to know what is going on… 
+
+'Fetch / render react blends them term render as we fetch for streaming responses
+Status Boolean or String
+STRING_- const [status] = useState("success")
+PROS CONS 
+initial, updated data, initialResource, updatedResource, isFetching, success or isSuccess, isFailure, isError, error, failure - to be used for each CRUD item 
+
+api call user click - isLoading, reload, refresh
+fallback, loader
+USER UI FEEDBACK vs VARIABLES for DEV and conditional rendering code
